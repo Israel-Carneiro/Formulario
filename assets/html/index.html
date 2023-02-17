@@ -17,7 +17,17 @@
             <h3 class="principal__subtitulo">Dados pessoais</h3>
             <div class="formulario__campo">
                 <label for="nome" class="campo__etiqueta"></label>
-                <input name="nome" id="nome" type="text" class="campo__escrita" required />
+                <input name="nome" id="nome" class="campo__escrita" required />
+            </div>
+            <div class="formulario__dupla">
+                <div class="formulario__campo">
+                    <label for="nascimento" class="campo__etiqueta">Nascimento</label>
+                    <input name="nascimento" id="nascimento" type="date" class="campo__escrita" required />
+                </div>
+                <div class="formulario__campo">
+                    <label for="telefone" class="campo__etiqueta">Contato</label>
+                    <input name="telefone" id="telefone" type="tel" placeholder="(XX) XXXXX-XXXX" class="campo__escrita" required />
+                </div>
             </div>
         </form>
     </main>
