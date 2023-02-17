@@ -37,10 +37,14 @@
             </div>
             <div class="formulario__campo">
                 <label for="email" class="campo__etiqueta">Email</label>
-                <input name="email" id="email" type="email" placeholder="seu@email.com" class="campo__escrita">
+                <input name="email" id="email" type="email" placeholder="seu@email.com" class="campo__escrita" required />
             </div>
 
             <h3 class="principal__subtitulo">Dados de endereço</h3>
+            <div class="formulario__campo">
+                <label for="cep" class="campo__etiqueta">CEP</label>
+                <input name="cep" id="cep" type="number" minlength="8" placeholder="12345-678" class="campo__escrita" required />
+            </div>
         </form>
     </main>
 </body>
