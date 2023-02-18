@@ -9,3 +9,13 @@
     font-size: 2rem;
     font-weight: 700;
 }
+
+@media screen and (min-width: 1024px) {
+    .banner {
+        padding: 3rem;
+    }
+
+    .titulo {
+        font-size: 4rem;
+    }
+}
