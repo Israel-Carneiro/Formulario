@@ -3,7 +3,7 @@
 
 :root {
     --fonte-principal: "Poppins"; /* Poppins sizes: 300, 400, 500, 700 */
-    --fonte-secundario: "Josefin Sans"; /* Josefin Sans sizes: 400, 700 */
+    --fonte-secundaria: "Josefin Sans"; /* Josefin Sans sizes: 400, 700 */
     
     --branco: #FFFFFF;
     --azul: #0b426b;
