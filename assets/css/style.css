@@ -1,7 +1,10 @@
+@import url(header.css);
+
 :root {
-    --fonte-principal: "Poppins";
-    --fonte-secundario: "Josefin Sans";
+    --fonte-principal: "Poppins"; /* Poppins sizes: 300, 400, 500, 700 */
+    --fonte-secundario: "Josefin Sans"; /* Josefin Sans sizes: 400, 700 */
     
+    --branco: #FFFFFF;
     --laranja: #EB9B00;
     --preto: #000000;
     --cinza: #474646;
