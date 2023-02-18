@@ -15,13 +15,7 @@
     color: var(--laranja);
 }
 
-.formulario__dupla {
-    display: flex;
-    justify-content: space-between;
-}
-
 .formulario__campo {
     display: flex;
     flex-direction: column;
-    margin-right: -1rem;
 }
