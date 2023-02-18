@@ -1,0 +1,16 @@
+.principal {
+    margin: 10vw;
+}
+
+.principal__titulo {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--azul);
+}
+
+.principal__subtitulo {
+    font-size: 1.25rem;
+    font-weight: 500;
+    margin: 2rem 0 1rem 1rem;
+    color: var(--laranja);
+}
