@@ -1,4 +1,5 @@
 @import url(header.css);
+@import url(formulario.css);
 
 :root {
     --fonte-principal: "Poppins"; /* Poppins sizes: 300, 400, 500, 700 */
