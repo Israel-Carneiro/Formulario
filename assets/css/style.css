@@ -1,4 +1,12 @@
 :root {
     --fonte-principal: "Poppins";
     --fonte-secundario: "Josefin Sans";
+    
+    --laranja: #EB9B00;
+    --preto: #000000;
+    --cinza: #474646;
+    --cinza-claro: #858585;
+    --vermelho: #D94937;
+    --vermelho-degrade: linear-gradient(97.54deg, #8c1111 35.49%, #893232 165.37%);
+    --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
 }
