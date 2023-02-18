@@ -24,3 +24,10 @@
     color: var(--cinza-claro);
     margin-left: .5rem;
 }
+
+.campo__escrita {
+    border: 2px solid var(--azul);
+    border-radius: 1.5rem;
+    padding: .5rem;
+    margin: .5rem 0 1rem 0;
+}
