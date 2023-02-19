@@ -48,3 +48,37 @@
 .formulario__botao:active {
     background-color: var(--laranja-escuro);
 }
+
+@media screen and (min-width: 768px) {
+    .principal__titulo {
+        font-size: 2rem;
+    }
+
+    .principal__subtitulo {
+        font-size: 1.5rem;
+    }
+
+    .formulario__dupla {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .formulario__campo {
+        min-width: 35vw;
+    }
+
+    .campo__etiqueta {
+        font-size: 1.25rem;
+    }
+
+    .campo__escrita {
+        font-size: 1.25rem;
+    }
+
+    .formulario__botao {
+        font-size: 1.5rem;
+        border-radius: 2.5rem;
+        width: 60%;
+        margin: 1.5rem 20% 0 20%;
+    }
+}
