@@ -96,4 +96,17 @@
         font-size: 2rem;
         margin: 4rem 0 2rem 1rem;
     }
+    
+    .formulario__campo {
+        min-width: 28vw;
+    }
+
+    .campo__etiqueta {
+        font-size: 1.5rem;
+    }
+
+    .campo__escrita {
+        font-size: 1.5rem;
+        margin: 1rem 0 1.5rem 0;
+    }
 }
