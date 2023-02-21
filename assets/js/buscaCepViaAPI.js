@@ -18,6 +18,7 @@ async function buscaEndereco (cep) {
         estado.value = CEPConvertido.uf;
 
         console.log(CEPConvertido);
+        return CEPConvertidoç
     } catch (erro) {
         mensagemErro.innerHTML = `<p>CEP inválido. Tente novamente.<;p>`
         console.log(erro)
