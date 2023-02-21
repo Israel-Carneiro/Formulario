@@ -82,3 +82,9 @@
         margin: 1.5rem 20% 0 20%;
     }
 }
+
+@media screen and (min-width: 1024px) {
+    .principal {
+        margin: 10vw 20vw;
+    }
+}
