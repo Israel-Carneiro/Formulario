@@ -32,6 +32,13 @@
     margin: .5rem 0 1rem 0;
 }
 
+.formulario__erro {
+    font-weight: 700;
+    font-family: var(--fonte-secundaria);
+    color: var(--vermelho);
+    margin: -.5rem 0 1rem 1rem;
+}
+
 .formulario__botao {
     font-size: 1.25rem;
     font-weight: 700;
