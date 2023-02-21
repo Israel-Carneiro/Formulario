@@ -14,5 +14,7 @@ async function buscaEndereco (cep) {
         bairro.value = CEPConvertido.bairro;
         cidade.value = CEPConvertido.localidade;
         estado.value = CEPConvertido.uf;
+
+        console.log(CEPConvertido);
     }
 }
