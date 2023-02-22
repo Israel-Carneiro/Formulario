@@ -1,0 +1,5 @@
+.radape {
+    display: flex;
+    justify-content: center;
+    gap: 10vw;
+}
