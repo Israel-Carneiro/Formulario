@@ -1,5 +1,6 @@
 @import url(header.css);
 @import url(formulario.css);
+@import url(rodape.css);
 
 :root {
     --fonte-principal: "Poppins"; /* Poppins sizes: 300, 400, 500, 700 */
