@@ -23,3 +23,8 @@
     flex-direction: column;
     gap: 1vh;
 }
+
+.contatos__item {
+    display: flex;
+    align-items: center;
+}
