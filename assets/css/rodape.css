@@ -13,7 +13,6 @@
     font-weight: 700;
     margin-bottom: 2vh;
 }
-
 .rodape__divisoria {
     margin: -1vh 2vw -1vh 6vw;
 }
@@ -27,4 +26,8 @@
 .contatos__item {
     display: flex;
     align-items: center;
+}
+
+.rodape__icone {
+    height: 18px;
 }
