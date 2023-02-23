@@ -13,3 +13,7 @@
     font-weight: 700;
     margin-bottom: 2vh;
 }
+
+.rodape__divisoria {
+    margin: -1vh 2vw -1vh 6vw;
+}
