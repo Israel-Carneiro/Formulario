@@ -31,3 +31,7 @@
 .rodape__icone {
     height: 18px;
 }
+
+.rodape__link {
+    color: var(--branco);
+}
