@@ -7,3 +7,9 @@
     padding: 3vh 0vw;
     font-family: var(--fonte-secundaria);
 }
+
+.rodape__titulo {
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin-bottom: 2vh;
+}
