@@ -17,3 +17,9 @@
 .rodape__divisoria {
     margin: -1vh 2vw -1vh 6vw;
 }
+
+.contatos {
+    display: flex;
+    flex-direction: column;
+    gap: 1vh;
+}
