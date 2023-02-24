@@ -61,3 +61,13 @@
         height: 24px;
     }
 }
+
+@media screen and (min-width: 1024px) {
+    .radape {
+        padding: 5vh 0vw;
+    }
+
+    .rodape__titulo {
+        font-size: 2rem;
+    }
+}
