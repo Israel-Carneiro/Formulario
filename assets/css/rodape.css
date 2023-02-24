@@ -47,4 +47,12 @@
     .creditos, .contatos {
         font-size: 1.25rem;
     }
+
+    .rodape__divisoria {
+        margin: -1vh 3vw -1vh 12vw;
+    }
+
+    .contatos {
+        gap: 2vh;
+    }
 }
