@@ -37,3 +37,14 @@
     color: var(--branco);
     cursor: pointer;
 }
+
+@media screen and (min-width: 768px) {
+    .rodape__titulo {
+        font-size: 1.5rem;
+        margin-bottom: 3vh;
+    }
+
+    .creditos, .contatos {
+        font-size: 1.25rem;
+    }
+}
