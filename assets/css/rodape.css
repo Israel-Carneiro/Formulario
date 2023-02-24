@@ -70,4 +70,16 @@
     .rodape__titulo {
         font-size: 2rem;
     }
+
+    .creditos, .contatos {
+        font-size: 1.5rem;
+    }
+
+    .rodape__divisoria {
+        margin: -3vh 3vw -3vh 12vw;
+    }
+
+    .rodape__icone {
+        height: 36px;
+    }
 }
