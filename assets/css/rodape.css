@@ -55,4 +55,8 @@
     .contatos {
         gap: 2vh;
     }
+
+    .rodape__icone {
+        height: 24px;
+    }
 }
