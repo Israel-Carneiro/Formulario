@@ -32,3 +32,10 @@ Para a realização deste objetivo as seguintes técnicas em HTML, CSS e JavaScr
  - Responsividade: Maior acessividade através de layouts ajustaveis para telas de mobile, tablet e desktop;
  - Estilização com ferramentas CSS como o Flexbox: Possibilitando a utilização de layouts modernos e ajustáveis por meio de códigos simples e enxutos.
  
+## Aprendizados
+
+Com a ajuda da API que completa alguns dos campos do formulário a partir do valor do CEP inserido pelo usuário, é possivel colocar em prática duas **heurísticas de Nielsen** que tornam as experiências dos usuários melhor:
+ - **Prevenção de erros:** O mecanismo de auto completar os campos de endereço de acordo com o CEP do usuário evita que os dados errados sejam enviados.
+ - **Auxílio ao usuário no reconhecimento de erros:** Ao declarar um CEP inexistente ou incorreto, o retorno da API aciona uma mensagem de erro proxima ao campo desta informação com um diagnostico do erro.
+
+Com o JavaScript é possivel realizar várias interações de ferramentas úteis para tornar projetos mais práticos e funcionais, facilitando a vida das pessoas!
