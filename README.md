@@ -1,2 +1,3 @@
-# Formulario
-Formulários são comumente usados para interação de usuários que tem interesse no conteúdo da página. Também são uma forma de registro importante para os criadores do conteúdo!
+# Formulário de inscrição
+
+Um modelo moderno e completo de formulário para o registro de dados pessoais de usuários. Pode ser facilmente reproduzido e tem diversas utilidades!
