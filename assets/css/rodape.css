@@ -1,4 +1,4 @@
-.radape {
+.rodape {
     display: flex;
     justify-content: center;
     min-height: 10vh;
@@ -63,7 +63,7 @@
 }
 
 @media screen and (min-width: 1024px) {
-    .radape {
+    .rodape {
         padding: 5vh 0vw;
     }
 
