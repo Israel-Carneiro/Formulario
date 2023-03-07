@@ -1,6 +1,6 @@
 # Formulário de inscrição
 
-Um modelo moderno e completo de formulário para o registro de dados pessoais de usuários. Pode ser facilmente reproduzido e tem diversas utilidades!
+Um modelo moderno e completo de formulário para o registro de dados pessoais de usuários e função de auto preenchimento de endereço via API a partir do CEP informado. Pode ser facilmente reproduzido e tem diversas utilidades!
 
 ## Demonstração
 
