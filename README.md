@@ -27,10 +27,10 @@ Um modelo moderno e completo de formulário para o registro de dados pessoais de
 Formulários sempre tiveram funções importantes como registro de contato, captação de leads, formalização de cadastro e de forma geral servem para estabalecerem conexões entre pessoas, companhias e instituições.
 
 Para a realização deste objetivo as seguintes técnicas em HTML, CSS e JavaScript foram utilizadas:
- - Estrutura HTML semantica: Facilitando ao computador a compreenção da estruturação, tornando o projeto otimizado aos mecanismos de busca e amigavel para pessoas com necessidades especiais;
- - Utilização de API via JavaScript: Auto-preenchimento de outros campos através do CEP informado para evitar erros por parte do usuário contribui com a confiança de dados precisos através de API
- - Responsividade: Maior acessividade através de layouts ajustaveis para telas de mobile, tablet e desktop;
- - Estilização com ferramentas CSS como o Flexbox: Possibilitando a utilização de layouts modernos e ajustáveis por meio de códigos simples e enxutos.
+ - **Estrutura HTML semantica:** Facilitando ao computador a compreenção da estruturação, tornando o projeto otimizado aos mecanismos de busca e amigavel para pessoas com necessidades especiais;
+ - **Utilização de API via JavaScript:** Auto-preenchimento de outros campos através do CEP informado para evitar erros por parte do usuário contribui com a confiança de dados precisos através de API
+ - **Responsividade:** Maior acessividade através de layouts ajustaveis para telas de mobile, tablet e desktop;
+ - **Estilização com ferramentas CSS como o Flexbox:** Possibilitando a utilização de layouts modernos e ajustáveis por meio de códigos simples e enxutos.
  
 ## Aprendizados
 
