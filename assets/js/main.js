@@ -1,3 +1,4 @@
+import CPFValido from "./validaCPF.js";
 const camposDoFormulario = document.querySelectorAll("[required]");
 
 camposDoFormulario.forEach((campo) => {
