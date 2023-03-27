@@ -10,4 +10,7 @@ function verificaCampo(campo) {
     if (campo.name == "cpf" && campo.value.length >= 11) {
         CPFValido(campo);
     }
+    if (campo.name == "aniversario" && campo.value != "") {
+        maiorDeIdade(campo);
+    }
 }
