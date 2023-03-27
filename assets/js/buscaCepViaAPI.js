@@ -26,4 +26,4 @@ async function buscaEndereco (cep) {
 }
 
 cep = document.getElementById('cep');
-addEventListener("focusout", () =>buscaEndereco(cep.value));
+addEventListener("blur", () =>buscaEndereco(cep.value));
