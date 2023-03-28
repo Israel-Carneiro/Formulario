@@ -47,10 +47,17 @@ const mensagens = {
 }
 
 function verificaCampo(campo) {
+    let mensagem = "";
     if (campo.name == "cpf" && campo.value.length >= 11) {
         CPFValido(campo);
     }
     if (campo.name == "aniversario" && campo.value != "") {
         maiorDeIdade(campo);
     }
+    tiposDeErro.forEach(erro => {
+        if (campo.validity[erro]) {
+            mensagem = mensagens[campo.name][erro];
+            console.log(mensagem);
+        }
+    })
 }
