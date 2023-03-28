@@ -41,8 +41,8 @@
                     <span class="mensagem-erro"></span>
                 </div>
                 <div class="formulario__campo">
-                    <label for="telefone" class="campo__etiqueta">Contato</label>
-                    <input name="telefone" id="telefone" type="tel" placeholder="(XX) XXXXX-XXXX" class="campo__escrita" required />
+                    <label for="telefone" class="campo__etiqueta">Telefone</label>
+                    <input name="telefone" id="telefone" type="tel" placeholder="(XX) XXXXX-XXXX" class="campo__escrita" minlength="10" required />
                     <span class="mensagem-erro"></span>
                 </div>
             </div>
@@ -54,7 +54,7 @@
                 </div>
                 <div class="formulario__campo">
                     <label for="cpf" class="campo__etiqueta">CPF</label>
-                    <input name="cpf" id="cpf" type="text" placeholder="000.000.000-00" class="campo__escrita" required />
+                    <input name="cpf" id="cpf" type="text" placeholder="000.000.000-00" class="campo__escrita" minlength="11" required />
                     <span class="mensagem-erro"></span>
                 </div>
             </div>
@@ -67,7 +67,7 @@
             <h3 class="principal__subtitulo">Dados de endereço</h3>
             <div class="formulario__campo">
                 <label for="cep" class="campo__etiqueta">CEP</label>
-                <input name="cep" id="cep" type="number" class="campo__escrita" required />
+                <input name="cep" id="cep" type="number" class="campo__escrita" minlength="8" required />
                 <span id="erro" class="mensagem-erro"></span>
             </div>
             <div class="formulario__campo">
