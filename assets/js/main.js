@@ -22,6 +22,8 @@ formulario.addEventListener("submit", (e) => {
         "cidade": e.target.elements["cidade"].value,
         "estado": e.target.elements["estado"].value,
     }
+
+    localStorage.setItem("cadastro", JSON.stringify(listaRespostas));
 })
 
 camposDoFormulario.forEach((campo) => {
