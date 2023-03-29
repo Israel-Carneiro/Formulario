@@ -5,6 +5,23 @@ const formulario = document.querySelector("[data-formulario]");
 
 formulario.addEventListener("submit", (e) => {
     e.preventDefault();
+
+    const listaRespostas = {
+        "nome": e.target.elements["nome"].value,
+        "sobrenome": e.target.elements["sobrenome"].value,
+        "nascimento": e.target.elements["nascimento"].value,
+        "telefone": e.target.elements["telefone"].value,
+        "rg": e.target.elements["rg"].value,
+        "cpf": e.target.elements["cpf"].value,
+        "email": e.target.elements["email"].value,
+        "cep": e.target.elements["cep"].value,
+        "endereco": e.target.elements["endereco"].value,
+        "numero": e.target.elements["numero"].value,
+        "complemento": e.target.elements["complemento"].value,
+        "bairro": e.target.elements["bairro"].value,
+        "cidade": e.target.elements["cidade"].value,
+        "estado": e.target.elements["estado"].value,
+    }
 })
 
 camposDoFormulario.forEach((campo) => {
