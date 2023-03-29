@@ -2,6 +2,9 @@ import CPFValido from "./validaCPF.js";
 import maiorDeIdade from "./validaIdade.js";
 const camposDoFormulario = document.querySelectorAll("[required]");
 const formulario = document.querySelector("[data-formulario]");
+
+formulario.addEventListener("submit", (e) => {
+    e.preventDefault();
 })
 
 camposDoFormulario.forEach((campo) => {
