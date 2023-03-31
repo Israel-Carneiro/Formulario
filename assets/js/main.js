@@ -43,65 +43,65 @@ const tiposDeErro = [
 
 const mensagens = {
     nome: {
-        valueMissing: "O campo de nome não pode estar vazio.",
+        valueMissing: "O nome não pode estar vazio.",
         patternMismatch: "Por favor, preencha um nome válido.",
         tooShort: "Por favor, preencha um nome válido.",
     },
     sobrenome: {
-        valueMissing: "O campo de sobrenome não pode estar vazio.",
+        valueMissing: "O sobrenome não pode estar vazio.",
         patternMismatch: "Por favor, preencha um sobrenome válido.",
         tooShort: "Por favor, preencha um sobrenome válido.",
     },
     nascimento: {
-        valueMissing: 'O campo de data de nascimento não pode estar vazio.',
+        valueMissing: 'A data de nascimento não pode estar vazio.',
         customError: 'Você deve ser maior que 18 anos para se cadastrar.'
     },
     telefone: {
-        valueMissing: "O campo de telefone não pode estar vazio.",
+        valueMissing: "O telefone não pode estar vazio.",
         patternMismatch: "Por favor, preencha um telefone válido.",
-        tooShort: "O campo de telefone não tem caractéres suficientes.",
+        tooShort: "O telefone não tem caractéres suficientes.",
     },
     rg: {
-        valueMissing: "O campo de RG não pode estar vazio.",
+        valueMissing: "O RG não pode estar vazio.",
         patternMismatch: "Por favor, preencha um RG válido.",
-        tooShort: "O campo de RG não tem caractéres suficientes.",
+        tooShort: "O RG não tem caractéres suficientes.",
     },
     cpf: {
-        valueMissing: 'O campo de CPF não pode estar vazio.',
+        valueMissing: 'O CPF não pode estar vazio.',
         patternMismatch: "Por favor, preencha um CPF válido.",
         customError: "O CPF digitado não existe.",
-        tooShort: "O campo de CPF não tem caractéres suficientes.",
+        tooShort: "O CPF não tem caractéres suficientes.",
     },
     email: {
-        valueMissing: "O campo de e-mail não pode estar vazio.",
+        valueMissing: "O e-mail não pode estar vazio.",
         typeMismatch: "Por favor, preencha um email válido.",
         tooShort: "Por favor, preencha um e-mail válido.",
     },
     cep: {
-        valueMissing: "O campo de CEP não pode estar vazio.",
+        valueMissing: "O CEP não pode estar vazio.",
         patternMismatch: "Por favor, preencha um CEP válido.",
         customError: "O CEP digitado não existe.",
-        tooShort: "O campo de CEP não tem caractéres suficientes.",
+        tooShort: "O CEP não tem caractéres suficientes.",
     },
     endereco: {
-        valueMissing: "O campo de endereço não pode estar vazio.",
+        valueMissing: "O endereço não pode estar vazio.",
         patternMismatch: "Por favor, preencha um endereço válido.",
-        tooShort: "O campo de endereço não tem caractéres suficientes.",
+        tooShort: "O endereço não tem caractéres suficientes.",
     },
     numero: {
-        valueMissing: "O campo de número de endereço não pode estar vazio.",
+        valueMissing: "O número de endereço não pode estar vazio.",
         patternMismatch: "Por favor, preencha um número de endereço válido.",
-        tooShort: "O campo de número de endereço não tem caractéres suficientes.",
+        tooShort: "O número de endereço não tem caractéres suficientes.",
     },
     bairro: {
-        valueMissing: "O campo de bairro não pode estar vazio.",
+        valueMissing: "O bairro não pode estar vazio.",
         patternMismatch: "Por favor, preencha um bairro válido.",
-        tooShort: "O campo de bairro não tem caractéres suficientes.",
+        tooShort: "O bairro não tem caractéres suficientes.",
     },
     cidade: {
-        valueMissing: "O campo de cidade não pode estar vazio.",
+        valueMissing: "A cidade não pode estar vazio.",
         patternMismatch: "Por favor, preencha uma cidade válida.",
-        tooShort: "O campo de cidade não tem caractéres suficientes.",
+        tooShort: "A cidade não tem caractéres suficientes.",
     },
     termos: {
         valueMissing: 'Você deve aceitar nossos termos antes de continuar.',
