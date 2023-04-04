@@ -1,3 +1,4 @@
+import buscaEndereco from "./buscaCepViaAPI.js";
 import CPFValido from "./validaCPF.js";
 import maiorDeIdade from "./validaIdade.js";
 const camposDoFormulario = document.querySelectorAll("[required]");
