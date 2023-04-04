@@ -118,6 +118,9 @@ function verificaCampo(campo) {
     if (campo.name == "nascimento" && campo.value != "") {
         maiorDeIdade(campo);
     }
+    if (campo.name == "cep" && campo.value != "") {
+        buscaEndereco(campo)
+    }
     tiposDeErro.forEach(erro => {
         if (campo.validity[erro]) {
             mensagem = mensagens[campo.name][erro];
