@@ -27,6 +27,3 @@ async function buscaEndereco (campo) {
         console.log(erro)
     }
 }
-
-cep = document.getElementById('cep');
-addEventListener("blur", () =>buscaEndereco(cep.value));
