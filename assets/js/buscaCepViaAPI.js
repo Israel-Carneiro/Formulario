@@ -27,3 +27,5 @@ async function buscaEndereco (campo) {
         console.log(erro)
     }
 }
+
+export default buscaEndereco;
