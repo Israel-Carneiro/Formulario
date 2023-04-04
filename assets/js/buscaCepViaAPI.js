@@ -1,6 +1,9 @@
-async function buscaEndereco (cep) {
+async function buscaEndereco (campo) {
+    const cep = campo.value;
+    
     var mensagemErro = document.getElementById('erro');
     mensagemErro.innerHTML = "";
+
     try {
         var consultaCEP = await fetch(`https://viacep.com.br/ws/${cep}/json/`)
         var CEPConvertido = await consultaCEP.json();
