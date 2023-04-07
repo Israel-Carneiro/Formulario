@@ -55,7 +55,7 @@ Com a ajuda da API que completa alguns dos campos do formulário a partir do val
  - **Prevenção de erros:** O mecanismo de auto completar os campos de endereço de acordo com o CEP do usuário evita que os dados errados sejam enviados.
  - **Auxílio ao usuário no reconhecimento de erros:** Ao declarar um CEP inexistente ou incorreto, o retorno da API aciona uma mensagem de erro proxima ao campo desta informação com um diagnostico do erro.
 
-Com o JavaScript é possivel realizar várias interações de ferramentas úteis para tornar projetos mais práticos e funcionais, facilitando a vida das pessoas!
+Graças ao JavaScript também é possivel realizar várias interações úteis, como a utilização de parâmetros para determinar a validação de campos de preenchimento, e a detecção de erros de validação para orientar o usuário no preenchimento correto do formulário, tornando o projeto mais prático e funcional além de facilitar a vida das pessoas!
 
 ## Autor
 
