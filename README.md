@@ -4,7 +4,8 @@ Um modelo moderno e completo de formulário para o registro de dados pessoais de
 
 ## Demonstração
 
- - Layouts responsivos para diferentes larguras de telas de dispositivos:
+### Layouts responsivos:
+ - Layouts próprios para diferentes larguras de telas de dispositivos:
 
 <table style="width: 100%; border: solid;" border="2px" cellspacing="0" cellpadding="1%">
   <tr>
@@ -13,9 +14,9 @@ Um modelo moderno e completo de formulário para o registro de dados pessoais de
     <th scope="col">Mobile (menor que 768px)</th>
   </tr>
   <tr>
-    <td width="40%"><img src="./assets/Designes Responsivos/screencapture-desktop.png" rel="Layout desktop" /></td>
-    <td width="35%"><img src="./assets/Designes Responsivos/screencapture-tablet.png" rel="Layout tablet" /></td>
-    <td width="15%"><img src="./assets/Designes Responsivos/screencapture-mobile.png" rel="Layout mobile" /></td>
+    <td width="38%"><img src="./assets/Designes Responsivos/screencapture-desktop.png" rel="Layout desktop" /></td>
+    <td width="30%"><img src="./assets/Designes Responsivos/screencapture-tablet.png" rel="Layout tablet" /></td>
+    <td width="12%"><img src="./assets/Designes Responsivos/screencapture-mobile.png" rel="Layout mobile" /></td>
   </tr>
 </table>
 
