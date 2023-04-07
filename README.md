@@ -4,7 +4,7 @@ Um modelo moderno e completo de formulário para o registro de dados pessoais de
 
 ## Demonstração
 
- - Layouts responsivos:
+ - Layouts responsivos para diferentes larguras de telas de dispositivos:
 
 <table style="width: 100%; border: solid;" border="2px" cellspacing="0" cellpadding="1%">
   <tr>
@@ -19,7 +19,7 @@ Um modelo moderno e completo de formulário para o registro de dados pessoais de
   </tr>
 </table>
 
- - Link para acesso ao resultado do projeto:<br><br>
+ ### :point_down:Confira o resultado do projeto pelo link de Deploy:<br>
  <a href="https://israel-carneiro.github.io/Formulario/" target="_blank"><img src="https://img.shields.io/badge/deploy-Formul%C3%A1rio-008000" rel="Deploy badge" /><a><br><br>
 
 ## Objetivo e técnicas utilizadas
