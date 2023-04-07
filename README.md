@@ -44,7 +44,8 @@ Formulários sempre tiveram funções importantes como registro de contato, capt
 
 Para a realização deste objetivo as seguintes técnicas em HTML, CSS e JavaScript foram utilizadas:
  - **Estrutura HTML semantica:** Facilitando ao computador a compreenção da estruturação, tornando o projeto otimizado aos mecanismos de busca e amigavel para pessoas com necessidades especiais;
- - **Utilização de API via JavaScript:** Auto-preenchimento de outros campos através do CEP informado para evitar erros por parte do usuário contribui com a confiança de dados precisos através de API
+ - **Validações de preenchimentos via JavaScript:** Campos do formulário que sejam preenchidos de forma irregular apresentarão uma mensagem de erro orientando o usuário a correção e não poderam ser submetidos até que todas as orientações sejam seguidas. De acordo com o erro de preenchimento uma mensagem específica aponta a correção necessária;
+ - **Utilização de API via JavaScript:** Auto-preenchimento de outros campos através do CEP informado para evitar erros por parte do usuário contribui com a confiança de dados precisos através de API;
  - **Responsividade:** Maior acessividade através de layouts ajustaveis para telas de mobile, tablet e desktop;
  - **Estilização com ferramentas CSS como o Flexbox:** Possibilitando a utilização de layouts modernos e ajustáveis por meio de códigos simples e enxutos.
  
