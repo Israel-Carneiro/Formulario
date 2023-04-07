@@ -9,9 +9,9 @@ Um modelo moderno e completo de formulário para o registro de dados pessoais de
 
 <table style="width: 100%; border: solid;" border="2px" cellspacing="0" cellpadding="1%">
   <tr>
-    <th scope="col">Desktop (1024px ou maior)</th>
-    <th scope="col">Tablet (768px ou maior)</th>
-    <th scope="col">Mobile (menor que 768px)</th>
+    <th scope="col">:desktop_computer:Desktop (1024px ou maior)</th>
+    <th scope="col">:computer:Tablet (768px ou maior)</th>
+    <th scope="col">:iphone:Mobile (menor que 768px)</th>
   </tr>
   <tr>
     <td width="38%"><img src="./assets/Designes Responsivos/screencapture-desktop.png" rel="Layout desktop" /></td>
@@ -21,8 +21,8 @@ Um modelo moderno e completo de formulário para o registro de dados pessoais de
 </table>
 
 ### Mecânicas do formulário:
- - **Validação:** O usuário é orientado a preencher o formulário da maneira correta de acordo com parâmetros estabelecidos para cada campo (com exeção do campo opcional de "complemento"). Em campos vazios aparecera a mensagem para serem preenchidos, campos preenchidos de forma irregular terão a mensagem de resposta inválida aparecendo;
- - **Autopreenchimento:** A partir do CEP digitado pelo usuário, os campos de **endereço**, **bairro**, **cidade** e **UF** serão autopreenchidos pelos dados coletados via API, evitando que sejam passadas informações incorretas, inprecisas e falsas além de ajudar o usuário a completar o formulário. Caso o CEP declarado não exista, a seguinte mensagem aparece: "**CEP inválido. Tente novamente.**"
+ - :bookmark_tabs:**Validação:** O usuário é orientado a preencher o formulário da maneira correta de acordo com parâmetros estabelecidos para cada campo (com exeção do campo opcional de "complemento"). Em campos vazios aparecera a mensagem para serem preenchidos, campos preenchidos de forma irregular terão a mensagem de "resposta inválida" aparecendo;
+ - :memo:**Autopreenchimento:** A partir do CEP digitado pelo usuário, os campos de **endereço**, **bairro**, **cidade** e **UF** serão autopreenchidos pelos dados coletados via API, evitando que sejam passadas informações incorretas, inprecisas e falsas além de ajudar o usuário a completar o formulário. Caso o CEP declarado não exista, a seguinte mensagem aparece: "**CEP inválido. Tente novamente.**"
 
 <table style="width: 100%; border: solid;" border="2px" cellspacing="0" cellpadding="1%">
   <tr>
