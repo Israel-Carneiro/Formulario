@@ -20,6 +20,17 @@ Um modelo moderno e completo de formulário para o registro de dados pessoais de
   </tr>
 </table>
 
+<table style="width: 100%; border: solid;" border="2px" cellspacing="0" cellpadding="1%">
+  <tr>
+    <th scope="col">Validações de formulário</th>
+    <th scope="col">Autopreenchimento</th>
+  </tr>
+  <tr>
+    <td width="35%"><img src="./assets/Designes Responsivos/validações.png" rel="Validações do formulário" /></td>
+    <td width="38%"><img src="./assets/Designes Responsivos/autopreenchimento.png" rel="Autopreenchimento de API" /></td>
+  </tr>
+</table>
+
  ### :point_down:Confira o resultado do projeto pelo link de Deploy:<br>
  <a href="https://israel-carneiro.github.io/Formulario/" target="_blank"><img src="https://img.shields.io/badge/deploy-Formul%C3%A1rio-008000" rel="Deploy badge" /><a><br><br>
 
